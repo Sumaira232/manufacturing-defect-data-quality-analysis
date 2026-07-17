@@ -20,26 +20,7 @@ This project evaluates the quality of a manufacturing defect dataset by identify
 - Validate data consistency
 - Improve data reliability
 - Prepare professional documentation
-
----
-
-# 📂 Project Structure
-
-```
-Data-Quality-Assessment/
-│
-├── README.md
-├── defect_annotations.xlsx
-├── Data_Quality_Report.pdf
-├── Executive_Summary.pdf
-├── Walkthrough_Video.md
-│
-├── images/
-│   ├── banner.png
-│   ├── dataset_preview.png
-│   ├── report_preview.png
-│   ├── summary_preview.png
-│   └── excel_preview.png
+- 
 ```
 
 ---
@@ -119,7 +100,7 @@ Data-Quality-Assessment/
 
 Watch the complete project explanation here:
 
-**🔗 Video Link:** *(Add your Google Drive or YouTube link here)*
+https://drive.google.com/file/d/1u8IGk0SPFQKcDDUx05ukP3T-t_DYLlRN/view?usp=sharing
 
 ---
 
