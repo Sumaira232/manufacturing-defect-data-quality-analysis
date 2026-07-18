@@ -1,6 +1,8 @@
 # 📊 Data Quality Assessment & Reporting
 
-Screenshot 2026-07-02 015425.png
+<p align="center">
+  <img src="ass 1 thum 3.png" alt="CNN Project Thumbnail" width="100%">
+</p>
 
 A professional Data Quality Assessment project focused on evaluating a manufacturing defect dataset. This project demonstrates data inspection, validation, reporting, and documentation skills using Microsoft Excel.
 
